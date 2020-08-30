@@ -2,7 +2,6 @@ import pandas as pd
 import seaborn as sn
 import matplotlib.pyplot as plt
 
-
 def getMatrix():
 	data = pd.read_csv("./diabetes.csv")
 
